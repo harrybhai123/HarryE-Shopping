@@ -31,7 +31,7 @@ SASS, Bootstrap, Node JS, Express, MongoDB, and Braintree for payment integratio
 - <img src="redme/express.png" alt="Express.js" width="16" height="16" /> Express: A fast and minimalist web application framework for Node.js.
 - <img src="redme/mongodb.png" alt="MongoDB" width="16" height="16" /> MongoDB: A flexible and scalable NoSQL database for storing product and user data.
 - <img src="redme/braintree.png" alt="Braintree" width="16" height="16" /> Braintree: A robust payment gateway for secure and hassle-free transactions.
-- <img src="redme/scss.png" alt="SCSS" width="16" height="16" /> SCSS: A powerful CSS preprocessor for creating organized and maintainable styles.
+- <img src="redme/sass.png" alt="SCSS" width="16" height="16" /> SCSS: A powerful CSS preprocessor for creating organized and maintainable styles.
 - <img src="redme/bootstrap.png" alt="Bootstrap" width="16" height="16" /> Bootstrap: A responsive and feature-rich CSS framework for building modern websites.
 
 
