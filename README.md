@@ -17,6 +17,30 @@ SASS, Bootstrap, Node JS, Express, MongoDB, and Braintree for payment integratio
 - :iphone: Responsive design: Experience a seamless shopping experience on any device with responsive design.
 
 ## Technologies Used
+- Frontend: <img src="redme/react.png" alt="React" width="16" height="16" /> React,
+  <img src="redme/sass.png" alt="SCSS" width="16" height="16" /> SCSS,
+  <img src="redme/bootstrap.png" alt="Bootstrap" width="16" height="16" /> Bootstrap (Navbar)
+- Backend: <img src="redme/node.png" alt="Node.js" width="16" height="16" /> Node.js,
+  <img src="redme/express.png" alt="Express.js" width="16" height="16" /> Express.js
+- Database: <img src="redme/mongodb.png" alt="MongoDB" width="16" height="16" /> MongoDB
+- Payment Integration: <img src="redme/braintree.png" alt="Braintree" width="16" height="16" /> Braintree
+
+## Technologies
+- <img src="redme/react.png" alt="React" width="16" height="16" /> React: A popular JavaScript library for building user interfaces.
+- <img src="redme/node.png" alt="Node.js" width="16" height="16" /> Node.js: A runtime environment for executing JavaScript code server-side.
+- <img src="redme/express.png" alt="Express.js" width="16" height="16" /> Express: A fast and minimalist web application framework for Node.js.
+- <img src="redme/mongodb.png" alt="MongoDB" width="16" height="16" /> MongoDB: A flexible and scalable NoSQL database for storing product and user data.
+- <img src="redme/braintree.png" alt="Braintree" width="16" height="16" /> Braintree: A robust payment gateway for secure and hassle-free transactions.
+- <img src="redme/sass.png" alt="SCSS" width="16" height="16" /> SCSS: A powerful CSS preprocessor for creating organized and maintainable styles.
+- <img src="redme/bootstrap.png" alt="Bootstrap" width="16" height="16" /> Bootstrap: A responsive and feature-rich CSS framework for building modern websites.
+
+
+## Contact
+
+For any inquiries or job opportunities, feel free to reach out to me at [Linkedin](https://www.linkedin.com/in/hariomtomar). Let's connect and discuss how my skills can contribute to your organization's success.
+
+
+<!-- ## Technologies Used
 - Frontend: ![React](redme/react.png) React, ![SCSS](redme/sass.png) SCSS, ![Bootstrap](redme/bootstrap.png) Bootstrap (Navbar)
 - Backend: ![Node.js](redme/node.png) Node.js, ![Express.js](redme/express.png) Express.js
 - Database: ![MongoDB](redme/mongodb.png) MongoDB
@@ -29,12 +53,10 @@ SASS, Bootstrap, Node JS, Express, MongoDB, and Braintree for payment integratio
 - ![MongoDB](redme/mongodb.png) MongoDB: A flexible and scalable NoSQL database for storing product and user data.
 - ![Braintree](redme/braintree.png) Braintree: A robust payment gateway for secure and hassle-free transactions.
 - ![SCSS](redme/scss.png) SCSS: A powerful CSS preprocessor for creating organized and maintainable styles.
-- ![Bootstrap](redme/bootstrap.png) Bootstrap: A responsive and feature-rich CSS framework for building modern websites.
+- ![Bootstrap](redme/bootstrap.png) Bootstrap: A responsive and feature-rich CSS framework for building modern websites. -->
 
 
-## Contact
 
-For any inquiries or job opportunities, feel free to reach out to me at [Linkedin](https://www.linkedin.com/in/hariomtomar). Let's connect and discuss how my skills can contribute to your organization's success.
 
 
 <!-- ## Why Hire Me?
