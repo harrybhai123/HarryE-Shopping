@@ -17,7 +17,7 @@ SASS, Bootstrap, Node JS, Express, MongoDB, and Braintree for payment integratio
 - :iphone: Responsive design: Experience a seamless shopping experience on any device with responsive design.
 
 ## Technologies Used
-- Frontend: ![React]("/redme/react.png") React, ![SCSS]("./redme/scss.png") SCSS, ![Bootstrap]("./redme/bootstrap.png") Bootstrap (Navbar)
+- Frontend: ![React]("redme/react.png") React, ![SCSS]("./redme/scss.png") SCSS, ![Bootstrap]("./redme/bootstrap.png") Bootstrap (Navbar)
 - Backend: ![Node.js]("./redme/node.png") Node.js, ![Express.js]("./redme/express.png") Express.js
 - Database: ![MongoDB]("./redme/mongodb.png") MongoDB
 - Payment Integration: ![Braintree]("./redme/braintree.png") Braintree
