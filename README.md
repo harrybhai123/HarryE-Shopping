@@ -17,19 +17,20 @@ SASS, Bootstrap, Node JS, Express, MongoDB, and Braintree for payment integratio
 - :iphone: Responsive design: Experience a seamless shopping experience on any device with responsive design.
 
 ## Technologies Used
-- Frontend: React, SCSS, Bootstrap (Navbar)
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Payment Integration: Braintree
+- Frontend: ![React](redme/react.png) React, ![SCSS](redme/sass.png) SCSS, ![Bootstrap](redme/bootstrap.png) Bootstrap (Navbar)
+- Backend: ![Node.js](redme/node.png) Node.js, ![Express.js](redme/express.png) Express.js
+- Database: ![MongoDB](redme/mongodb.png) MongoDB
+- Payment Integration: ![Braintree](redme/braintree.png) Braintree
 
 ## Technologies
-- React: A popular JavaScript library for building user interfaces.
-- Node.js: A runtime environment for executing JavaScript code server-side.
-- Express: A fast and minimalist web application framework for Node.js.
-- MongoDB: A flexible and scalable NoSQL database for storing product and user data.
-- Braintree: A robust payment gateway for secure and hassle-free transactions.
-- SCSS: A powerful CSS preprocessor for creating organized and maintainable styles.
-- Bootstrap: A responsive and feature-rich CSS framework for building modern websites.
+- ![React](redme/react.png) React: A popular JavaScript library for building user interfaces.
+- ![Node.js](redme/node.png) Node.js: A runtime environment for executing JavaScript code server-side.
+- ![Express](redme/express.png) Express: A fast and minimalist web application framework for Node.js.
+- ![MongoDB](redme/mongodb.png) MongoDB: A flexible and scalable NoSQL database for storing product and user data.
+- ![Braintree](redme/braintree.png) Braintree: A robust payment gateway for secure and hassle-free transactions.
+- ![SCSS](redme/scss.png) SCSS: A powerful CSS preprocessor for creating organized and maintainable styles.
+- ![Bootstrap](redme/bootstrap.png) Bootstrap: A responsive and feature-rich CSS framework for building modern websites.
+
 
 ## Contact
 
