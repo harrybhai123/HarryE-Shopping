@@ -34,6 +34,9 @@ SASS, Bootstrap, Node JS, Express, MongoDB, and Braintree for payment integratio
 - <img src="redme/sass.png" alt="SCSS" width="16" height="16" /> SCSS: A powerful CSS preprocessor for creating organized and maintainable styles.
 - <img src="redme/bootstrap.png" alt="Bootstrap" width="16" height="16" /> Bootstrap: A responsive and feature-rich CSS framework for building modern websites.
 
+## Screenshot 
+
+<img src="redme/1.png" alt="Home" />
 
 ## Contact
 
