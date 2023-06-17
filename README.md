@@ -15,7 +15,8 @@ SASS, Bootstrap, Node JS, Express, MongoDB, and Braintree for payment integratio
 - :shopping_cart: Cart: Seamlessly manage your shopping cart, add or remove products, and proceed to a secure checkout process.
 - :mag_right: Search: Utilize the powerful search functionality to quickly find specific products based on keywords or filters.
 - :iphone: Responsive design: Experience a seamless shopping experience on any device with responsive design.
-- :bald_man: Admin: included Admin Dashboard And User Dashboard
+- :bald_man: Streamlined Admin Dashboard: Empower yourself with our intuitive and efficient Admin Dashboard for effortless management and control.
+- :busts_in_silhouette: User Dashboard: Personalize your shopping experience and stay in control with our user-friendly dashboard.
 
 ## Technologies Used
 - Frontend: <img src="redme/react.png" alt="React" width="16" height="16" /> React,
