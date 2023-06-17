@@ -4,8 +4,7 @@
 
 ## Overview
 
-Welcome to the repository for my E-Commerce website project! This project showcases my skills as a Full Stack Developer and demonstrates my ability to create a responsive and dynamic online shopping platform using React,
-SASS, Bootstrap, Node JS, Express, MongoDB, and Braintree for payment integration.
+Welcome to my E-Commerce website project repository! This project serves as a testament to my expertise as a Full Stack Developer, highlighting my ability to create a dynamic and responsive online shopping platform. Powered by React, SASS, Bootstrap, Node.js, Express, MongoDB, and integrated with Braintree for seamless payments, it demonstrates the culmination of my skills in building robust and user-friendly web applications.
 
 ## Project Features
 - :house_with_garden: Home: A visually appealing landing page that captures the essence of the e-commerce website and provides an inviting user experience.
